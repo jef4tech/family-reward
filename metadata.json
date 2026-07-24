@@ -1,0 +1,6 @@
+{
+  "name": "BloomFamily",
+  "description": "A family reward system that helps parents build positive habits in children through gamification and nurtured growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
